@@ -1,0 +1,28 @@
+body{
+    background: #fff;
+}
+#bok{
+    width: 1335px;
+    margin: 0 auto;
+    box-shadow: 0 0 5px #000;
+    background-color: #fff;
+}
+#header{
+    width: 1335px;
+    height: 100px;
+    font-style: Arial;
+    font-size: 40;
+    background-color: blue;
+}
+#main{
+    width: 1335px;
+    min-height: 500px;
+    background-image: url('image/g.png');
+}
+
+#footer{
+    width: 1335px;
+    height: 50px;
+    background-color: blue;
+    clear: both;
+}
